@@ -1,1 +1,1 @@
-include ':app', ':p0031afirstproject', ':p0041basicviews', ':p0051layoutfiles', ':p0061layouts', ':p0072layoutprop', ':p0081viewbyid', ':p0091onclickbuttons', ':p0101_listener', ':p0102_activitylistener', ':p0111_resvalues'
+include ':app', ':p0031afirstproject', ':p0041basicviews', ':p0051layoutfiles', ':p0061layouts', ':p0072layoutprop', ':p0081viewbyid', ':p0091onclickbuttons', ':p0101_listener', ':p0102_activitylistener', ':p0111_resvalues', ':p0121_logandmess'
